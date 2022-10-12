@@ -8,20 +8,34 @@
 ### Reading 19: Capital Budgeting 
 Definitions:
 - Opportunity cost
-- Externalities
+- Externalities(synergy & cannibalization)
+- Sunk costs
+- Financing costs
+- Economic Income Method
+- Economic depreciation V.S. Accounting depreciation
+- Economic Profit Method
 
 |Questions|Answers|
 |:-|:-|
-|NPV||
-|IRR||
-|Incremental, after-tax cash flow|三要两不要?|
-|Initial Outlay||
-|Annual after-tax operating cash flow||
-|Terminal year after-tax non-operating cash flow(TNOCF)||
+|计算 NPV||
+|计算 IRR||
+|定义 Incremental, after-tax cash flow||
+|计算 Initial Outlay||
+|计算 Annual after-tax operating cash flow||
+|计算 Terminal year after-tax non-operating cash flow(TNOCF)||
+|计算 Equivalent annual annuity (PMT)||
+|计算 Economic Income||
+|计算 Economic depreciation||
+|计算 Economic Profit||
 
-
+> Example: Economic Profit 
 
 ### Reading 20: Capital Structure
+||MM I(公司价值)|MM II（公司融资成本）|
+|:-|:-|:-|
+|without tax|$V_u = V_L$|$V_L = V_u + t*D$|
+|with tax|||
+
 
 
 ### Reading 21: Analysis of Dividends and Share Repurchases
