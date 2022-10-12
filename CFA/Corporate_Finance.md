@@ -1,6 +1,6 @@
-[toc]
+Outline
 
-## 重难点自测
+## Self-Tests
 
 R19
 - 公司怎么做投资决策？
@@ -17,4 +17,17 @@ R23
 - Bid Valuation, 计算post-merge value of the combined companies, acquirer's gain, target share holder's gain
 
 
-# R19
+# R19: Capital Budgeting 
+怎么花钱，4题+
+
+# R20: Capital Structure 
+怎么来钱，2题+
+
+# R21: Analysis of Dividends and Share Repurchases
+怎么分钱，1-2题+
+
+# R22: Corporate Governance and Other ESG Consideration in Invetsment Analysis
+一看名字就不是很重要，0-1题
+
+# R23: Mergers and Acquisitions
+并购，3题+
