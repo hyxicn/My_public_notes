@@ -1,10 +1,10 @@
 Outline
 
 
-# Artificial Intelligence
+### Artificial Intelligence
 |搭配|Collocations|
 |:-|:-|
-|intelligence explosion||
+|intelligence explosion|智能爆炸|
 |AI is progressing rapidly |AI正迅猛发展|
 |human-like characteristics|类人机器人|
 |AI can encompass anything|AI无所不能|
@@ -13,3 +13,23 @@ Outline
 |properly|严格意义上讲|
 |develop AI|开发|
 |R&D|研发|
+
+
+### Unemployment. What happens after the end of jobs?
+|搭配|Collocations|
+|:-|:-|
+|the hierachy of labour|劳动的等级划分|
+|... is concerned primarily with automation||
+|to sustain themselves and their families|养家糊口|
+
+The hierarchy of labour is concerned primarily with automation. As we've invented ways to automate jobs, we could create room for people to assume more complex roles, moving from the physical work that dominated the pre-industrial globe to the cognitive labour that characterizes strategic and administrative work in our globalized society.
+
+Look at trucking: it currently employs millions of individuals in the United States alone. What will happen to them if the self-driving trucks promised by Tesla's Elon Musk become
+
+### Inequality. How do we distribute the wealth created by manchines?
+|搭配|Collocations|
+|:-|:-|
+|based on compensation for contribution to the ecnonomy|对经济贡献的补偿来定|
+
+
+
