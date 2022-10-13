@@ -2,13 +2,13 @@ This is a course introduction
 
 ### What is Text Analytics?
 #### Examples?
-1) Text Summarisation
-2) Text Annotation
-3) Text Modelling:\
+- Text Summarisation
+- Text Annotation
+- Text Modelling:\
 Earthquake location estimation based on tweets\
 Typhoon trajectory estimation based on tweets
-4) Text Understanding
-5) Text Translation
+- Text Understanding
+- Text Translation
 
 #### Challenges?
 
@@ -25,13 +25,13 @@ Typhoon trajectory estimation based on tweets
 
 1. Specify the challenge for NLP?
 
-Ambiguity 模糊表达；\
-non-standard English；\
-Neologisms 新词（网络词）；\
-Segmentation issues 正确断句；\
-world knowledge 缺乏背景知识；\
-Idioms 习语；\
-Tricky entity names\ 
+- Ambiguity 模糊表达
+- non-standard English
+- Neologisms 新词（网络词)
+- Segmentation issues 正确断句
+- World knowledge 缺乏背景知识
+- Idioms 习语
+- Tricky entity names
 
 2. What is the potential solution？
 
