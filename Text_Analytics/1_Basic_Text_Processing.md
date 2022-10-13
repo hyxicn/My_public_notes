@@ -26,3 +26,7 @@ What are the potencial solutions?
 #### Tokenisation
 
 - How many words?
+
+  难点：名词所有格，变形（are am be），连字符，大小写，特殊名称，缩写，不同语言有不一样的细节
+
+
