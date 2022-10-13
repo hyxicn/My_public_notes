@@ -19,3 +19,10 @@ But regular expressions are used as features in the classifiers;
 
 
 ### Basic Text Processing
+What are the task? 
+
+What are the potencial solutions?
+
+#### Tokenisation
+
+- How many words?
