@@ -1,7 +1,7 @@
 This is a course introduction
 
-#### What is Text Analytics?
-- Examples?
+### What is Text Analytics?
+#### Examples?
 1) Text Summarisation
 2) Text Annotation
 3) Text Modelling:\
@@ -10,7 +10,7 @@ Typhoon trajectory estimation based on tweets
 4) Text Understanding
 5) Text Translation
 
-- Challenges?
+#### Challenges?
 
 |Mostly solved|Making good process|Still really hard|
 |:-:|:-:|:-:|
@@ -21,6 +21,57 @@ Typhoon trajectory estimation based on tweets
 ||Machine translation (MT) 机器翻译||
 ||Information extraction (IE) 信息提取||
 
-- Challenges for NLP hard? Any solutions?
+#### Challenges and solutions for NLP?
 
-- Models and Algorithms?
+1. Specify the challenge for NLP?
+
+Ambiguity 模糊表达；\
+non-standard English；\
+Neologisms 新词（网络词）；\
+Segmentation issues 正确断句；\
+world knowledge 缺乏背景知识；\
+Idioms 习语；\
+Tricky entity names\ 
+
+2. What is the potential solution？
+
+Probabilistic models built from language data
+
+- Models
+State machines\
+Rule systems\
+Probabilistic models\
+Vector-space models
+- Algorithms
+Classifier: SVM, logistic regression, Gaussian mixture models\
+Sequence classifier: Hidden Markov model
+- Deep Architectures
+RNNs, CNNs, Seq2seq models..
+
+### Course goals
+
+After successful completion of this course, you should have knowledge about:
+
+- Tasks related to language technology
+- Different models and algorithms that are used solve these problems 
+- State-of-the-art (SOTA) architectures that have improved upon these classic models
+- Computing word sense and knowledge bases 
+- Selected topics of current research
+
+### Textbooks
+
+- C. Manning and H. Schütze. 1999. Foundations of Statistical Natural Language Processing. MIT Press.
+
+- Daniel Jurafsky and James H. Martin. 2008. Speech and Language Processing. Second Edition. Prentice Hall.
+[3 rd edition draft](https://web.stanford.edu/~jurafsky/slp3/)
+
+- Jacob Eisenstein. 2019. An Introduction to Natural Language Processing
+[Online draft](https://github.com/jacobeisenstein/gt-nlpclass/tree/master/notes)
+
+
+### Some other outline resources
+
+- CS 124 (Dan Jurafsky): https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA/
+- A comprehensive catalogue of online courses on deep learning (includes fundamentals and NLP applications): https://deep-learning-drizzle.github.io/index.html
+- Deep Natural Language Processing (Oxford & DeepMind): https://github.com/oxford-cs-deepnlp-2017/lectures/
+
