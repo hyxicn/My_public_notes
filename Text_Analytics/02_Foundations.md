@@ -70,9 +70,24 @@ Source:
 
   We can compute similarity over both words and senses.
   
-  **What are the idea, pros and cons for each solutions below?**
+  Solution: Two classes of similarity algorithms
   
-  * Path based similarity
+  **Undertand the idea, pros and cons for each algorithms!**
+  
+  * Thesaurus-based algorithms:
+  
+    * Path based similarity
+    
+  * Distributional algorithms:
+    
+    * Resnik
+    * Dekang-Lin
+    * eLesk
+  
+  ### Path based similarity
+  ### Resnik
+  ### Dekang-Lin
+  ### eLesk
 
 ## Word Sense Disambiguation
 
