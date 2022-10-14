@@ -64,6 +64,16 @@ Source:
 * [ConceptNet](https://conceptnet.io/)
 * [FrameNet](https://web.stanford.edu/~jurafsky/slp3/20.pdf)
 
+## Word Similarity
 
- 
+* Task: Identify synonymy
+
+  We can compute similarity over both words and senses.
+  
+  **What are the idea, pros and cons for each solutions below?
+  
+  * Path based similarity
+
+## Word Sense Disambiguation
+
   
