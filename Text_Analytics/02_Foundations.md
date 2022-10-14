@@ -20,7 +20,7 @@ Source:
 * Word Relations
   * Homonymy 一词多义
   * Polysemy 近义词
-  * Metonymy 转喻
+  * Metonymy [转喻](https://www.zhihu.com/question/19766649)
   * Synonyms
   * Antonyms
   * Autoantonyms
