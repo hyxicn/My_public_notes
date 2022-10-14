@@ -70,7 +70,7 @@ Source:
 
   We can compute similarity over both words and senses.
   
-  **What are the idea, pros and cons for each solutions below?
+  **What are the idea, pros and cons for each solutions below?**
   
   * Path based similarity
 
