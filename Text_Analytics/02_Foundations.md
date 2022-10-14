@@ -14,8 +14,20 @@ Source:
 
 ## Words senses
 
-1. How do we know when a word has more than one sense?
+1. How do we know when a word has more than one sense? 
 
+    **Zeugma test**
+    
+    ### Example
+    
+    Which flights serve breakfast?
+    
+    Does Lufthansa serve Philadelphia?
+    
+    ?Does Lufthansa serve breakfast and Philadelphia?
+    
+    Since this conjunction sounds weird, we say that these are two different senses of serve.
+ 
 ## Words relationships
 
 * Word Relations
@@ -32,17 +44,26 @@ Source:
     * Meronym 部份
     * Holonym 整体
 
-### Examples
+  ### Examples
 
- Car is a **hyponym** of vehicle.
+  * Car is a **hyponym** of vehicle.
   
- Vehicle is a **hypernym** of car.
-
- Wheel is a **meronym** of car, and car is a **holonym** of wheel.
+  * Vehicle is a **hypernym** of car.
+  
+  * Wheel is a **meronym** of car, and car is a **holonym** of wheel.
  
-### Notes
+  ### Causion
+  
+  * There are almost NO perferct synonymy examples. (large ≠ big in all sentences.
+  
+  * Synonymy is a relation between senses rather than words.
+  
+## Knowledge Base
 
- There are almost NO perferct synonymy examples. (large ≠ big in all sentences.
+* [WordNet](https://web.stanford.edu/~jurafsky/slp3/19.pdf)
+* [ConceptNet](https://conceptnet.io/)
+* [FrameNet](https://web.stanford.edu/~jurafsky/slp3/20.pdf)
+
+
  
- Synonymy is a relation between senses rather than words.
-
+  
