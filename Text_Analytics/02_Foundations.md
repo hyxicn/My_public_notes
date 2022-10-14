@@ -12,6 +12,7 @@ Source:
 
 * [SLP3 Chapter 18](https://web.stanford.edu/\~jurafsky/slp3/18.pdf)
 
+## Words senses
 
 ## Words relationships
 
@@ -24,3 +25,4 @@ Source:
   * Autoantonyms
   * Hyponymy and Hypernymy
   * Meronymy and Holonymy
+
