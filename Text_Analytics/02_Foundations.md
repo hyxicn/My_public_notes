@@ -91,6 +91,44 @@ Source:
 
 ## Word Sense Disambiguation
 
+  Reference:
+  
+  * [SLP3 Chapter 7](https://nlp.stanford.edu/fsnlp/wsd/)
+  
+  * [SLP3 Chapter 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
+  
+  **Task of WSD:**
+  
+   Given a word in contex and a fixed inventory of potencial word senses. Decide which sense of the word this is?
+
+   ### Supervised Machine Learning
+   
+   * Task: Classification
+      
+   * Methods: Any kind of classifier
+      
+      * Naive Bayes
+        
+      * Logistic Regression
+        
+      * Neural Networks
+        
+      * Support-vector machines
+        
+      * k-Nearest 
+   
+   ### Thesaurus/Dictinary Methods
+   
+   * Methods: 
+   
+      * The simplified Lesk algorithm
+      
+      * The corpus lesk algorithm
+      
+      * Graph-based methods
+   
+   ### Semi-supervised Learning(not covered)
+   
 
 
   
