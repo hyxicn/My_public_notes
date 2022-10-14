@@ -1,4 +1,19 @@
-### Regex
+Outline
+
+Basic Text Processing
+- Regular expressions
+- Tokenizations
+- Normalization and Stemming
+- Sentence Segmentation and Decision Trees
+- Minimum Edit Distance
+
+
+### Basic Text Processing
+What are the task? 
+
+What are the potencial solutions?
+
+#### Regex
 
 - What is Regex?
 
@@ -16,12 +31,6 @@ But regular expressions are used as features in the classifiers;
   Can be very useful in capturing generalizations
   
  - [Learn Regex by hand](https://www.w3schools.com/python/python_regex.asp)
-
-
-### Basic Text Processing
-What are the task? 
-
-What are the potencial solutions?
 
 #### Tokenisation
 
