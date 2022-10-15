@@ -34,5 +34,40 @@
 |potential|adj.潜在的，有可能的 n.潜力，潜能，可能性|
 |spleen|n. 脾，脾气，怒气|
 |spiral|n. 旋涡，螺旋形之物 adj. 螺旋形的，盘旋的 v.成螺旋|
-
-
+|spiny|adj. 多针的，尽是尖刺的，尖刺状的|
+|agile|adj. 动作敏捷的，灵活的，头脑机灵的|
+|agitate|vt. 搅动，摇动；使不安；激烈讨论 vi. 鼓动，煽动|
+|agrarian|adj. 土地的，耕地的 n. 平均地地权论者|
+|ahead|adv. 向前地，将来地，占优势，提前|
+|combine|n. 集团，联合收割机 v. 结合，联合|
+|repatriate|n. 被遣返回国者 vt. 把...遣返回国|
+|repay|v. 偿还，报答，还钱给|
+|repeal|n. 废止，撤销|
+|mirage|n. 海市蜃楼|
+|intensive|adj. 强烈的，密集的，精细的，强调|
+|misconception|n. 误解，错误想法|
+|misconduct|n. 处理不当（胡作非为） vt. 处理不当（胡作非为）|
+|misdemeanor|轻罪，不正当的行为|
+|misgive|v. 怀疑，恐惧 vt. 使担心|
+|overrule|v. （高位的人）不准，否决（低位的人或事）|
+|topple|vt. 使坍塌 vi. 坍塌|
+|vogue|n. 时尚，流行|
+|vortex|n. 漩涡，旋风|
+|vital|adj. 至关重要的，生死攸关的，有活力的，充满生机的|
+|volatile|adj. 反复无常的，挥发性的，稍纵即逝的，脾气火爆的 n. 挥发性物质|
+|volcanic|adj. 火山的，猛烈的|
+|volume|n. 体积，容量，音量 n. 卷，册|
+|vulnerable|adj. 易受伤害的，有弱点的|
+|boon|adj. 愉快的 n. 恩惠|
+|boost|n. 推进，支援，增加 vt. 推进，提高|
+|advertent|adj. 注意的，留意的|
+|aerobic|adj. 需氧的，有氧的，增氧健身法的|
+|aerodynamic|adj. 空气动力的（气动的）|
+|aesthetic|adj. 美学的，审美的，有美感的 n.复数 审美观|
+|breakwater|n. 防波堤|
+|breed|n. 品种，族类 vt. 养育，繁殖，引起 vi 繁殖|
+|brew|n. 酝酿酒，酝酿 v. 酿造，酝酿|
+|brief|n. 摘要，简报，公事包 adj. 简短的，简洁的 v. 对...作简报，摘要|
+|brighten|vt. 使变亮，使生辉 vi. 发光，发亮|
+|brine|n. 盐水，海水 vt. 把...浸入盐水|
+|sentiment|n. 感情，情趣，意见，观点，多愁善感|
