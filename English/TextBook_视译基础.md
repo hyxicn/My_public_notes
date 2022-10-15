@@ -3,7 +3,7 @@
 Source:
 
   * [视译基础](https://zh.b-ok.cc/book/21329947/d2ee1b)
-  * MP3 音频: http://enmajor.heep.cn/
+  * [MP3 音频](http://enmajor.heep.cn/)
 
 Sight translation is oral rendition of a written original. It is a hybrid between interpreting and translation.
 
