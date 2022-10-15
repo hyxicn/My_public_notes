@@ -7,6 +7,8 @@ Source:
 
 Sight translation is oral rendition of a written original. It is a hybrid between interpreting and translation.
 
+汝果欲学诗，工夫在诗外。
+
 Outline:
 
   1. 视译理论概述及视译基础训练
