@@ -12,9 +12,9 @@ Sight translation is oral rendition of a written original. It is a hybrid betwee
 Outline:
 
   1. 教学建议
-  2. 视译理论概述及视译基础训练
-  3. 英汉视译技巧和汉英视译技巧
+  2. 视译基础篇
+  3. 视译技巧篇
   4. 视译实践篇
   5. 带稿同传篇
   6. 自主训练篇
-  7. 附录：国际会议用语介绍和相关词汇表
+  7. 附录：国际会议用语集锦
