@@ -39,3 +39,62 @@ Outline:
 `display varname[x]` displays the xth observation of variable
 
 `bysort varname:`
+
+### Dropping Observations or Variables
+
+`drop varlist` Dropping variables (i.e. columnns)
+
+`keep varlist` Keep specified variables, drop remaining
+
+Drop with conditions
+
+`drop if age > 18` Drop all observations with age > 18
+
+`drop if age > 18 & age !=.` Missing values are treated as +∞
+
+### Generating Variables
+
+`generate newvar = exp[if]` [Syntax: generate new variable]
+
+Examples:
+
+`generate lnx = log(x)`
+
+`generate x2 = x^2`
+
+`generate rootx = sqrt(x)`
+
+`generate diff = x2-x1`
+
+* Create new variable of e.g. means in a subset of variable:
+
+`egen newvar = function (varname)`
+
+Example: Generating a variable containing the number of children in a household:
+
+```js
+sort cluster household, stable
+generate count = 1 if current_age !=.
+by cluster household: gen number_child = sum(count)
+```
+
+```js
+Alternative in 1 step:
+bysort cluster household: egen number_child = 
+```
+
+Example: Generating a varibale containing the total number of children in a household:
+
+```
+egen child_total = rowtotal(birth1 birth2 birth3).
+```
+Example: Oldest child in the data:
+
+```
+egen child_oldest = rowmax(agechild1 agechild2 agechild3)
+```
+
+
+
+
+
