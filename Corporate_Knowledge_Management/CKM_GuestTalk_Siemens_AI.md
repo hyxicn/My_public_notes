@@ -14,13 +14,26 @@ Date: 22-10-19
 * Knowledge Crisis
   - How to keep the knowledge in a company when its employees retire?
   - How to reduce the cost to train a new employee?
+  - How to engage people to join your program?
+    
+    To provide the possibility to get feedback!
+    
+  - What we can do to excitate sharing？
+    
+    1. Reward for sharing
+    2. Make it easier to share
+    3. Quality matters more than quantity
+    
+    Idea?
 
-
-
-
+    Knowledge Academy
+    
+    Self satisfaction
+    
+    Capture expert knowledge
     
 ### Q&A
 - How to quantify how many jobs AI department have done?
-- Can you give us a example where AI won't work in Siemens?
+- Can you give us an example where AI won't work in Siemens?
 - How did AI department help with supply chain crisis in Siemens?
      
