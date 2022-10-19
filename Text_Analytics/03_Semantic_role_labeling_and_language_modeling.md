@@ -1,8 +1,6 @@
 Outline:
 
   * [Semantic Role labeling](https://web.stanford.edu/~jurafsky/slp3/slides/22_SRL.pdf)
-
-  * [Language modeling](https://web.stanford.edu/~jurafsky/slp3/slides/LM_4.pdf)
   
 ## Semantic Role Labeling
 
