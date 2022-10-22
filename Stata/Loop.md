@@ -156,8 +156,6 @@ Outline
    
 
 ### Reference
-
-* [Local Macro and Macro](http://www.tjxzj.net/3577.html)
 * [Stata local and macro](https://www.lianxh.cn/news/523000c83ce1f.html)
 * [Stata local and macro连享会翻译](https://www.lianxh.cn/news/4d57e771feba7.html)
 * [连享会全部推文](https://www.jianguoyun.com/p/DXgO9zoQtKiFCBj6tPED)
