@@ -123,7 +123,28 @@ Outline
     ```
 
 ### `while` loops
+
+  * `while` v.s. `foreach` and `forvalues`
     
+    Example: print out 1 to 3 using loops
+    
+    While loops continue until a condition is no longer met.
+    
+    ```js
+    local i 1
+    while `i' < 3 {
+            display "`i ++ '"
+    }
+    ```
+    
+    foreach and forvalues are useful if you have a defined set of values over which to iterate.
+    
+    ```js
+    forval i i = 1/3 {
+             display "`i'"
+    }
+    ```
+   
 
 ### Reference
 
