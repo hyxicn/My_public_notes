@@ -144,6 +144,15 @@ Outline
              display "`i'"
     }
     ```
+    
+    **Exercise 3.2**
+    
+    Write 3 loops using forvalues, foreach and while, respectively, that display the number from 1 to 10.
+    
+    ```js
+   
+    
+    ```
    
 
 ### Reference
