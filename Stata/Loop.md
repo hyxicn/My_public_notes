@@ -150,7 +150,19 @@ Outline
     Write 3 loops using forvalues, foreach and while, respectively, that display the number from 1 to 10.
     
     ```js
-   
+    forvalues i = 1/10 {
+	  display `i'
+    }
+    
+    foreach i of numlist 1/10 {
+	  display `i'
+    }
+
+    local i = 1
+    while `i'  < = 10 {
+	  display `i'
+    local  ++i
+    }
     
     ```
    
