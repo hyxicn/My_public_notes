@@ -1,1 +1,42 @@
+Pior Knowledge: Theory + Empirical
 
+Theory:
+
+* Economics 
+
+  * History of Economics
+  * Micro Economics
+  * Macro Economics
+  * **Monetary and Banking**
+
+* Finance
+
+  * Financial Risk Management
+  * Derivatives
+  * Portfolio Management
+  * Corporate Finance
+
+* System Science
+
+  * System Dynamics
+  * Agent Based Model
+  * Self-organization Criticality
+
+* Mathematics & Statistics
+
+  * Calculus
+  * Probability
+  * Linear Algebra
+  * Stochastic Processes
+
+Empirical Methods：
+
+* Programming
+
+  * R
+  * Python
+  * Stata
+  * Matlab
+  
+
+   
