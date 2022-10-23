@@ -1,4 +1,4 @@
-Pior Knowledge: Theory + Empirical
+Pior Knowledge for Macro Finace: Theory + Empirical
 
 Theory:
 
@@ -46,10 +46,3 @@ Empirical Methods：
   * Nature Language Process
   * Network Science
   * Blockchain
- 
-
-
- 
-  
-
-   
