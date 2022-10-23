@@ -41,7 +41,7 @@ Empirical Methods：
   * Matlab
   * Netlogo
 
-* Topics
+* Application Topics
 
   * Nature Language Process
   * Network Science
