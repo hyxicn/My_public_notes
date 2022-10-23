@@ -18,7 +18,9 @@ Theory:
 
 * System Science
 
+  * Complex Theory
   * System Dynamics
+  * Dynamic System Analysis
   * Agent Based Model
   * Self-organization Criticality
 
@@ -37,6 +39,17 @@ Empirical Methods：
   * Python
   * Stata
   * Matlab
+  * Netlogo
+
+* Topics
+
+  * Nature Language Process
+  * Network Science
+  * Blockchain
+ 
+
+
+ 
   
 
    
