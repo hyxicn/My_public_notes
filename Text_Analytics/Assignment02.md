@@ -68,6 +68,24 @@ __e) Apply the model to a corpus (2 pts)__
   
   常用模型：二元bigram，三元trigram
   
+* 如何定义Unigram model, Bigram model, Trigram model?
+
+  当 n=1，一个一元模型unigram model为：
+  
+  $P\left(w_1, w_2, \cdots, w_m\right)=\prod_{i=1}^m P\left(w_i\right)$
+  
+  当 n=2，一个一元模型bigram model为：
+  
+  $P\left(w_1, w_2, \cdots, w_m\right)=\prod_{i=1}^m P\left(w_i \mid w_{i-1}\right)$
+  
+  当 n=3，一个一元模型trigram model为：
+  
+  $P\left(w_1, w_2, \cdots, w_m\right)=\prod_{i=1}^m P\left(w_i \mid w_{i-2} w_{i-1}\right)$
+  
+  
+  
+  
+  
 
   
 
