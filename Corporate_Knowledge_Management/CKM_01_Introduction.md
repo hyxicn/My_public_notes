@@ -23,4 +23,20 @@ DDL
 * Case study presentations: 30.11.2022
 * Final exam: 20.12.2022
 
+## 02 Knowledge Creation
+
+Learning Objectives
+
+* Describe different views on the nature of knowledge
+* Distinguish different types of knowledge
+* Describe exploration and exploitation as two different learning modes
+* Understand and explain the SECI models as a theory of organizational knowledge creation
+* Understand the concept of "Ba" as a foundation for the knowledge spiral
+
+### 2.1 What is knowledge?
+
+* Types of knowledge: explicit vs. tacit
+* Types of knowledge: declarative vs. procedural 
+
+
 
