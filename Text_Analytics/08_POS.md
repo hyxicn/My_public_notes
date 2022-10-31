@@ -1,0 +1,33 @@
+# POS tagging
+
+|Week|TA Logistics|
+|-:|:-|
+|01|Introduction|
+|02|Preprocessing|
+|03|Thesauri & knowledge bases|
+|04|Word Sense Disambiguation, Entity Linking|
+|05|Language modeling I|
+|06|Language modeling II|
+|**07**|**POS tagging I**|
+|**08**|**POS tagging II**|
+|09|ML Basics: Text clustering, classification|
+|10|Vector Semantics I|
+|11|Vector Semantics II|
+|12|Neural Networks Introduction|
+|13|Word Embeddings: Static|
+
+Outline
+* Parts-of-Speech
+* Rule-based approaches(ENGTWOL)
+* Stochastic approaches(Hidden Markov Models)
+
+## Parts of Speech (POS)
+
+* What are parts of speech(POS)?
+* POS also named...
+* 
+
+## Rule-based approaches(ENGTWOL)
+
+
+## Stochastic approaches(Hidden Markov Models)
