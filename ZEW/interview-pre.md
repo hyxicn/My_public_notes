@@ -24,13 +24,13 @@ Via Zoom
 * Get my hands dirty. 
 * Apply my knowledge from study in actual reseach projects
 * Identity my blind spots during study. (How to find a valid IV? What if exogeneity assumption fails? What about OVB? What can we do if some data is important but it is not available) 
-* Putting my skills to work will help me find my future career path (e.g. I have a few research interests (like systematic risk management, banking regulations, interaction between fiscal and monetary policy, but I not sure about my PhD research topic)
+* Putting my skills to work will help me find my future career path (e.g. I have a few research interests like systematic risk management, banking regulations, interaction between fiscal and monetary policy, but I not sure about my PhD research topic yet)
 * Research in a institution v.s. University. What's the difference?
 * **Interesed in Fiscal policy research and regulations in general**
     * 目前欧洲热议的财政政策是什么？
     * 不同的财政政策会对欧元区的宏观经济产生什么样的影响？
     * 在欧元贬值的背景下，货币政策未来如何变动，财政政策是否会和欧元货币政策联动？
-    * 德国的财政政策和欧盟财政政策之间的关系
+    * 德国的财政体系和欧盟财政体系之间的关系？
 
 ### Expectation
 
