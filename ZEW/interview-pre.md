@@ -19,6 +19,9 @@ Via Zoom
 * Major, minor
 * Impression about Mannheim
 
+Hi my name is Yanxi. I am an exchange student in economics department from UZH, Switzerland. I major in Banking and finance with a minor in informatics. I come to Mannheim because my head teacher in Finance department during bachelor used to a post-doc (Humboldt Research Fellowship Programme for Postdoctoral Researcher) in Mannheim. I know it from her that Mannheim is very famous for economics reasearch.  I quite enjoy my study in Mannheim so far.
+
+
 ### Motivation
 
 * Get my hands dirty. 
@@ -27,10 +30,10 @@ Via Zoom
 * Putting my skills to work will help me find my future career path (e.g. I have a few research interests like systematic risk management, banking regulations, interaction between fiscal and monetary policy, but I not sure about my PhD research topic yet)
 * Research in a institution v.s. University. What's the difference?
 * **Interesed in Fiscal policy research and regulations in general**
-    * 目前欧洲热议的财政政策是什么？
-    * 不同的财政政策会对欧元区的宏观经济产生什么样的影响？
-    * 在欧元贬值的背景下，货币政策未来如何变动，财政政策是否会和欧元货币政策联动？
-    * 德国的财政体系和欧盟财政体系之间的关系？
+    * 目前欧洲热议的财政政策是什么？What is the current hotly debated fiscal policy in Europe?
+    * 不同的财政政策会对欧元区的宏观经济产生什么样的影响？What impact will different fiscal policies have on the macroeconomy of the euro area?
+    * 在欧元贬值的背景下，货币政策未来如何变动，财政政策是否会和欧元货币政策联动？Against the background of the depreciation of the euro, how will the monetary policy change in the future, and will the fiscal policy interact with the euro monetary policy?
+    * 德国的财政体系和欧盟财政体系之间的关系？The relationship between the German fiscal system and the fiscal system in other EU countries?
     * 欧盟财政政策的缺陷：统一货币和分散财政的可持续性？Ref:[欧元区统一货币与分散财政问题分析](http://www.cf40.com/news_detail/2929.html)
 
 ### Expectation
