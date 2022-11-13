@@ -72,42 +72,7 @@ But regular expressions are used as features in the classifiers;
 
 损失的信息：Stemming ＞ Lemmatization
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Basic Text Processing
-What are the task? 
-
-What are the potencial solutions?
-
-#### Regex
-
-
-
-#### Tokenisation
-
-
-
-#### Nomalisation and Stemming
-
-
-  
-#### Sentence segmentation and Decision Trees
+### 5. Sentence Segmentation 句子分割
 
 - 如何划分句子？难点和解决方案是什么？
 
@@ -130,7 +95,7 @@ What are the potencial solutions?
   
   Machine learning methods includes decision tree, logistic regression, SVM, Neural Nets and etc.
 
-#### Minimum Edit Distance
+### 6. Minimum Edit Distance
 
 - Why do we need to consider MED?
 
