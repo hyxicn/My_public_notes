@@ -8,7 +8,9 @@
 
 文本预处理（Preprocessing）是大多数NLP应用的第一步，简单来说，它的目的是将文档拆借成单词以便计算机程序能够解释。
 
-## 1.2 预处理的具体步骤
+## 1.2 定义
+
+文本预处理的方法：
 
 * Regular expression 正则表达式: 匹配，检索和替换那些符合某个模式(规则)的文本
 * Tokenizations 分词: 将橘子拆分成单词
@@ -17,12 +19,20 @@
    * Lemmatization 词形还原：把词汇还原为能够表达完整语义的一般形式
 * Sentence Segmentation: 句子分割（结合决策树等机器学习模型）
 
+相关定义：
+
+* Type: an element of the vocabulary.
+* Token: an instance of that type in running text.
+
 ### 2. Regex 正则表达式
 
-- What is Regex?
+* 什么是 RegEx？
 
-  A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern.
-RegEx can be used to check if a string contains the specified search pattern.
+  Regular Expression 简写为RegEx
+
+  规则表达式通常被用来匹配、检索和替换那些符合某个模式pattern（规则）的文本等
+
+  A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern. RegEx can be used to check if a string contains the specified search pattern.
 
 - Regex 适用范围和局限性？
 
@@ -93,7 +103,7 @@ But regular expressions are used as features in the classifiers;
   - regular expression 
   - machine-learning(推荐)
   
-  Machine learning methods includes decision tree, logistic regression, SVM, Neural Nets and etc.
+  Machine learning methods includes **decision tree, logistic regression, SVM, Neural Nets** and etc.
 
 ### 6. Minimum Edit Distance
 
