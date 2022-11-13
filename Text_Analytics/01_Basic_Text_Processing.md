@@ -1,19 +1,23 @@
-Outline
 
-Basic Text Processing
-- Regular expressions
-- Tokenizations
-- Normalization and Stemming
-- Sentence Segmentation and Decision Trees
-- Minimum Edit Distance
+# 02 Preprocessing 文本预处理
 
+## 1. 引言
+通常情况下，语言数据在使用之前需要对其进行数据清理。
 
-### Basic Text Processing
-What are the task? 
+## 1.1 为什么要进行文本预处理
 
-What are the potencial solutions?
+文本预处理（Preprocessing）是大多数NLP应用的第一步，简单来说，它的目的是将文档拆借成单词以便计算机程序能够解释。
 
-#### Regex
+## 1.2 预处理的具体步骤
+
+* Regular expression 正则表达式: 匹配，检索和替换那些符合某个模式(规则)的文本
+* Tokenizations 分词: 将橘子拆分成单词
+*  Normalisation 词规范化: 将单词转换为规范形式
+   * Stemming 词干提取：抽取词的词干或词根形式
+   * Lemmatization 词形还原：把词汇还原为能够表达完整语义的一般形式
+* Sentence Segmentation: 句子分割（结合决策树等机器学习模型）
+
+### 2. Regex 正则表达式
 
 - What is Regex?
 
@@ -32,13 +36,15 @@ But regular expressions are used as features in the classifiers;
   
  - [Learn Regex by hand](https://www.w3schools.com/python/python_regex.asp)
 
-#### Tokenisation
+### 3. Tokenization 分词
 
 - How many words?
 
   难点：名词所有格，变形（are am be），连字符，大小写，特殊名称，缩写，不同语言有不一样的细节
 
-#### Nomalisation and Stemming
+### 4. Normalization 词规范化
+
+词规范化：将已经分词的单词转化为正规形式
 
 - Source of word variants
 
@@ -46,21 +52,60 @@ But regular expressions are used as features in the classifiers;
 
 - Why do we need Normalization?
 
+  词规范化的目的：缩小词汇表；将具有相同意义的单词映射为相同的type
+
   Information Retrieval: Indexed text & query terms must have same form. 为了信息检索，USA和U.S.A其实是一样的
 
 - How to deal with Normalization?
 
   首先，处理Case folding 大小，然后，处理Morphology词形学。
 
-  i. Stemming
+  i. Stemming 词干提取
   
   Look-up table\
   Suffix-stripping algorithms\
   Stochastic algorithms.(例如 Porter’s algorithm)
   
-  ii. Lemmatization
+  ii. Lemmatization 词形还原
   
   lemma比stem更严格，lemma还是拼写正确的词汇
+
+损失的信息：Stemming ＞ Lemmatization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Basic Text Processing
+What are the task? 
+
+What are the potencial solutions?
+
+#### Regex
+
+
+
+#### Tokenisation
+
+
+
+#### Nomalisation and Stemming
+
+
   
 #### Sentence segmentation and Decision Trees
 
