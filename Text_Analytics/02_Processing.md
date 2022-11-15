@@ -21,8 +21,8 @@
 
 相关定义：
 
-* Type: an element of the vocabulary.
-* Token: an instance of that type in running text.
+* Type: an element of the vocabulary. 不包括重复的单词
+* Token: an instance of that type in running text. 
 
 ### 2. Regex 正则表达式
 
@@ -105,7 +105,7 @@ But regular expressions are used as features in the classifiers;
   
   Machine learning methods includes **decision tree, logistic regression, SVM, Neural Nets** and etc.
 
-### 6. Minimum Edit Distance
+### 6. Minimum Edit Distance 最小可编辑距离
 
 - Why do we need to consider MED?
 
