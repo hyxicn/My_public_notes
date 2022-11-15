@@ -13,7 +13,7 @@
 文本预处理的方法：
 
 * Regular expression 正则表达式: 匹配，检索和替换那些符合某个模式(规则)的文本
-* Tokenizations 分词: 将橘子拆分成单词
+* Tokenizations 分词: 将句子拆分成单词
 *  Normalisation 词规范化: 将单词转换为规范形式
    * Stemming 词干提取：抽取词的词干或词根形式
    * Lemmatization 词形还原：把词汇还原为能够表达完整语义的一般形式
