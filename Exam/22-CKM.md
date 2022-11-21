@@ -27,26 +27,19 @@ DDL:
 
 * 01 Introduction
 
-
 * 02 Knowledge Creation
     * 2.1 What is knowledge?
-      * describe nature of knowledge
-      * distinguish different types of knowledge
-          * explicit vs. tacit knowledge
-          * declarative vs. procedural knowledge
     * 2.2 Origin of KM
     * 2.3 Knowledge integration and internalization
     * 2.4 Exploration and exploitation learning
-      * describe exploration and exploitation as two different learning models
     * 2.5 The knowledge spiral model (SECI model)
-      * understand SECI model as a theory of organizational knowledge creation
  
 * 03 Knowledge Processes: Knowledge Transfer
     * 3.1 Foundations of Knowledge transfer
     * 3.2 Communities of Practice
     * 3.3 Transferring best practice & lessons learned
     * 3.4 Media Synchronicity Theory
- 
+      
 * 04 Knowledge Processes: Knowledge Storage and Retrieval
     * 4.1 Data Structuring
     * 4.2 Approaches to knowledge representation
@@ -55,7 +48,7 @@ DDL:
     * 4.5 Analysis of natural language through text mining
     * 4.6 Knowledge storage in data warehouses(DW)
     * 4.7 Knowledge retrieval in DW through Business Intelligence(BI) methods
-
+      
 * 05 @AI Siemens
 
 * 06 The Effects of AI Systems on KM
@@ -86,3 +79,52 @@ DDL:
     * 9.5 Conclusions
 
 * Recap & Exam Prep
+
+## Learning Objectives
+
+* 01 Introduction
+
+* 02 Knowledge Creation
+     - describe nature of knowledge
+     - distinguish different types of knowledge
+         - explicit vs. tacit knowledge
+         - declarative vs. procedural knowledge
+     - describe exploration and exploitation as two different learning models
+     - understand SECI model as a theory of organizational knowledge creation
+     - understand the concept of "Ba" as a foundation for the knowledge spiral
+
+* 03 Knowledge Processes: Knowledge Transfer
+     - describe the challenges of knowledge transfer 
+     - learn about dimensions of communication channels
+     - understand and describe knowledge transfer through channels represented by Communities of Practice, lessons learned, best practices, and team composition
+     - explain the Media Synchronicity Theory and apply it to example cases
+
+* 04 Knowledge Processes: Knowledge Storage and Retrieval
+     - explain the implications of different degrees of codification
+     -  describe digital transactive memory systems as a technology to retrieve knowledge
+     - explain different text minning functionality
+     - understand data warehouses as the storage location of structured data
+     - explain different business intelligence analysis methods (OLAP and data mining)
+      
+* 05 @AI Siemens
+
+* 06 The Effects of AI Systems on KM
+     - Understand basic of ML techniques
+     - How do ML techniques influence knowledge in organizations?
+     - How does ML influence the KM cycle (storage, retrieval, creation, transfer)?
+     - How does ML change the introduction of KMS?
+      
+* 07 Designing Knowledge Management Systems(1)
+     - Explain the influence of contingency factors on the adequate design of a KMS
+     - Describe different design approaches to KMS
+     - Apply different design approaches to KMS:
+        - Analyze case information regarding contingency factors
+        - Deduce design principles resulting from the identified contingency factors
+     - Understand and describe similarities and differences between the design approaches
+     - Discuss your approach to designing a KMS for a given case
+* 08 Designing Knowledge Management Systems(2)
+* 09 The Use of Knowledge Management Systems
+     - describe the challenges of knowledge transfer 
+     - learn about dimensions of communication channels
+     - understand and describe knowledge transfer through channels represented by Communities of Practice, lessons learned, best practices, and team composition
+     - explain the Media Synchronicity Theory and apply it to example cases
